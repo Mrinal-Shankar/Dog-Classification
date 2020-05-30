@@ -9,6 +9,7 @@
   <li><a href="https://www.kaggle.com/c/dog-breed-identification/data"> Dataset from Kaggle </a></li>
   <li><a href="https://github.com/MrinalShankar/Dog-Classification/blob/master/labels.csv"> Labels(Breeds) for training dataset </a></li>
   <li><a href="https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4"> Pre-trained model from TensorFlow Hub</a></li>
+  <li><a href="https://github.com/MrinalShankar/Dog-Classification/blob/master/full%20model%20submission.csv"> Final submission</a></li>
  </ul>
   
   
